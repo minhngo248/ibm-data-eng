@@ -1,0 +1,209 @@
+[2023-10-10 12:13:24,749] {processor.py:153} INFO - Started process (PID=1194) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:13:24,749] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:13:24,750] {logging_mixin.py:115} INFO - [2023-10-10 12:13:24,750] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:13:24,772] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:13:24,856] {logging_mixin.py:115} INFO - [2023-10-10 12:13:24,856] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:13:24,882] {logging_mixin.py:115} INFO - [2023-10-10 12:13:24,881] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:13:24,899] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.155 seconds
+[2023-10-10 12:13:55,386] {processor.py:153} INFO - Started process (PID=1256) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:13:55,395] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:13:55,396] {logging_mixin.py:115} INFO - [2023-10-10 12:13:55,396] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:13:55,426] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:13:55,497] {logging_mixin.py:115} INFO - [2023-10-10 12:13:55,497] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:13:55,546] {logging_mixin.py:115} INFO - [2023-10-10 12:13:55,546] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:13:55,576] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.195 seconds
+[2023-10-10 12:14:25,642] {processor.py:153} INFO - Started process (PID=1318) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:14:25,643] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:14:25,644] {logging_mixin.py:115} INFO - [2023-10-10 12:14:25,644] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:14:25,681] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:14:25,743] {logging_mixin.py:115} INFO - [2023-10-10 12:14:25,742] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:14:25,800] {logging_mixin.py:115} INFO - [2023-10-10 12:14:25,799] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:14:25,816] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.178 seconds
+[2023-10-10 12:14:56,620] {processor.py:153} INFO - Started process (PID=1371) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:14:56,621] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:14:56,622] {logging_mixin.py:115} INFO - [2023-10-10 12:14:56,622] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:14:56,644] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:14:56,687] {logging_mixin.py:115} INFO - [2023-10-10 12:14:56,686] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:14:56,721] {logging_mixin.py:115} INFO - [2023-10-10 12:14:56,721] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:14:56,733] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.117 seconds
+[2023-10-10 12:15:05,024] {processor.py:153} INFO - Started process (PID=1387) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:15:05,024] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:15:05,025] {logging_mixin.py:115} INFO - [2023-10-10 12:15:05,025] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:15:05,047] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:15:05,133] {logging_mixin.py:115} INFO - [2023-10-10 12:15:05,133] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:15:05,158] {logging_mixin.py:115} INFO - [2023-10-10 12:15:05,158] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:15:05,174] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.155 seconds
+[2023-10-10 12:15:12,371] {processor.py:153} INFO - Started process (PID=1392) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:15:12,372] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:15:12,372] {logging_mixin.py:115} INFO - [2023-10-10 12:15:12,372] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:15:12,395] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:15:12,420] {logging_mixin.py:115} INFO - [2023-10-10 12:15:12,419] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:15:12,457] {logging_mixin.py:115} INFO - [2023-10-10 12:15:12,457] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:15:12,480] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.114 seconds
+[2023-10-10 12:15:22,730] {processor.py:153} INFO - Started process (PID=1417) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:15:22,731] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:15:22,732] {logging_mixin.py:115} INFO - [2023-10-10 12:15:22,731] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:15:22,754] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:15:22,778] {logging_mixin.py:115} INFO - [2023-10-10 12:15:22,778] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:15:22,807] {logging_mixin.py:115} INFO - [2023-10-10 12:15:22,807] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:15:22,822] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.097 seconds
+[2023-10-10 12:15:30,869] {processor.py:153} INFO - Started process (PID=1442) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:15:30,870] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:15:30,870] {logging_mixin.py:115} INFO - [2023-10-10 12:15:30,870] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:15:30,891] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:15:30,916] {logging_mixin.py:115} INFO - [2023-10-10 12:15:30,916] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:15:30,946] {logging_mixin.py:115} INFO - [2023-10-10 12:15:30,946] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:15:30,960] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.096 seconds
+[2023-10-10 12:15:37,933] {processor.py:153} INFO - Started process (PID=1452) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:15:37,934] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:15:37,935] {logging_mixin.py:115} INFO - [2023-10-10 12:15:37,934] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:15:37,957] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:15:38,054] {logging_mixin.py:115} INFO - [2023-10-10 12:15:38,054] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:15:38,085] {logging_mixin.py:115} INFO - [2023-10-10 12:15:38,085] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:15:38,102] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.174 seconds
+[2023-10-10 12:15:52,490] {processor.py:153} INFO - Started process (PID=1481) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:15:52,491] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:15:52,491] {logging_mixin.py:115} INFO - [2023-10-10 12:15:52,491] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:15:52,513] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:15:52,537] {logging_mixin.py:115} INFO - [2023-10-10 12:15:52,537] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:15:52,568] {logging_mixin.py:115} INFO - [2023-10-10 12:15:52,567] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:15:52,581] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.096 seconds
+[2023-10-10 12:16:22,684] {processor.py:153} INFO - Started process (PID=1539) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:16:22,685] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:16:22,686] {logging_mixin.py:115} INFO - [2023-10-10 12:16:22,686] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:16:22,717] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:16:22,779] {logging_mixin.py:115} INFO - [2023-10-10 12:16:22,779] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:16:22,818] {logging_mixin.py:115} INFO - [2023-10-10 12:16:22,818] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:16:22,838] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.159 seconds
+[2023-10-10 12:16:41,435] {processor.py:153} INFO - Started process (PID=1568) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:16:41,436] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:16:41,437] {logging_mixin.py:115} INFO - [2023-10-10 12:16:41,436] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:16:41,450] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:16:41,491] {logging_mixin.py:115} INFO - [2023-10-10 12:16:41,491] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:16:41,522] {logging_mixin.py:115} INFO - [2023-10-10 12:16:41,522] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:16:41,539] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.110 seconds
+[2023-10-10 12:16:42,488] {processor.py:153} INFO - Started process (PID=1569) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:16:42,489] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:16:42,490] {logging_mixin.py:115} INFO - [2023-10-10 12:16:42,490] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:16:42,515] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:16:42,581] {logging_mixin.py:115} INFO - [2023-10-10 12:16:42,580] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:16:42,625] {logging_mixin.py:115} INFO - [2023-10-10 12:16:42,625] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:16:42,644] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.161 seconds
+[2023-10-10 12:17:12,702] {processor.py:153} INFO - Started process (PID=1631) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:17:12,704] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:17:12,704] {logging_mixin.py:115} INFO - [2023-10-10 12:17:12,704] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:17:12,718] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:17:12,768] {logging_mixin.py:115} INFO - [2023-10-10 12:17:12,768] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:17:12,798] {logging_mixin.py:115} INFO - [2023-10-10 12:17:12,798] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:17:12,811] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.113 seconds
+[2023-10-10 12:17:43,160] {processor.py:153} INFO - Started process (PID=1684) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:17:43,161] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:17:43,162] {logging_mixin.py:115} INFO - [2023-10-10 12:17:43,162] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:17:43,179] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:17:43,257] {logging_mixin.py:115} INFO - [2023-10-10 12:17:43,257] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:17:43,307] {logging_mixin.py:115} INFO - [2023-10-10 12:17:43,306] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:17:43,327] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.171 seconds
+[2023-10-10 12:18:13,380] {processor.py:153} INFO - Started process (PID=1746) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:18:13,380] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:18:13,381] {logging_mixin.py:115} INFO - [2023-10-10 12:18:13,381] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:18:13,398] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:18:13,441] {logging_mixin.py:115} INFO - [2023-10-10 12:18:13,441] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:18:13,472] {logging_mixin.py:115} INFO - [2023-10-10 12:18:13,472] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:18:13,485] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.110 seconds
+[2023-10-10 12:18:44,017] {processor.py:153} INFO - Started process (PID=1808) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:18:44,017] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:18:44,018] {logging_mixin.py:115} INFO - [2023-10-10 12:18:44,018] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:18:44,041] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:18:44,137] {logging_mixin.py:115} INFO - [2023-10-10 12:18:44,136] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:18:44,236] {logging_mixin.py:115} INFO - [2023-10-10 12:18:44,236] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:18:44,277] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.274 seconds
+[2023-10-10 12:20:48,591] {processor.py:153} INFO - Started process (PID=2036) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:20:48,592] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:20:48,592] {logging_mixin.py:115} INFO - [2023-10-10 12:20:48,592] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:20:48,593] {logging_mixin.py:115} INFO - [2023-10-10 12:20:48,593] {dagbag.py:301} INFO - File /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py assumed to contain no DAGs. Skipping.
+[2023-10-10 12:20:48,593] {processor.py:653} WARNING - No viable dags retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:20:48,618] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.033 seconds
+[2023-10-10 12:20:56,581] {processor.py:153} INFO - Started process (PID=2060) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:20:56,582] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:20:56,582] {logging_mixin.py:115} INFO - [2023-10-10 12:20:56,582] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:20:56,596] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:20:56,640] {logging_mixin.py:115} INFO - [2023-10-10 12:20:56,640] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:20:56,671] {logging_mixin.py:115} INFO - [2023-10-10 12:20:56,670] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:20:56,684] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.109 seconds
+[2023-10-10 12:21:27,145] {processor.py:153} INFO - Started process (PID=2123) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:21:27,155] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:21:27,156] {logging_mixin.py:115} INFO - [2023-10-10 12:21:27,156] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:21:27,177] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:21:27,276] {logging_mixin.py:115} INFO - [2023-10-10 12:21:27,276] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:21:27,326] {logging_mixin.py:115} INFO - [2023-10-10 12:21:27,326] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:21:27,356] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.215 seconds
+[2023-10-10 12:21:57,439] {processor.py:153} INFO - Started process (PID=2176) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:21:57,440] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:21:57,441] {logging_mixin.py:115} INFO - [2023-10-10 12:21:57,441] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:21:57,454] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:21:57,492] {logging_mixin.py:115} INFO - [2023-10-10 12:21:57,492] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:21:57,523] {logging_mixin.py:115} INFO - [2023-10-10 12:21:57,523] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:21:57,535] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.100 seconds
+[2023-10-10 12:22:27,726] {processor.py:153} INFO - Started process (PID=2238) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:22:27,727] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:22:27,727] {logging_mixin.py:115} INFO - [2023-10-10 12:22:27,727] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:22:27,741] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:22:27,783] {logging_mixin.py:115} INFO - [2023-10-10 12:22:27,783] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:22:27,813] {logging_mixin.py:115} INFO - [2023-10-10 12:22:27,813] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:22:27,826] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.105 seconds
+[2023-10-10 12:22:57,989] {processor.py:153} INFO - Started process (PID=2291) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:22:57,990] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:22:57,990] {logging_mixin.py:115} INFO - [2023-10-10 12:22:57,990] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:22:58,004] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:22:58,064] {logging_mixin.py:115} INFO - [2023-10-10 12:22:58,063] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:22:58,121] {logging_mixin.py:115} INFO - [2023-10-10 12:22:58,120] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:22:58,133] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.149 seconds
+[2023-10-10 12:23:28,827] {processor.py:153} INFO - Started process (PID=2353) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:23:28,828] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:23:28,829] {logging_mixin.py:115} INFO - [2023-10-10 12:23:28,829] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:23:28,843] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:23:28,888] {logging_mixin.py:115} INFO - [2023-10-10 12:23:28,888] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:23:28,922] {logging_mixin.py:115} INFO - [2023-10-10 12:23:28,922] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:23:28,934] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.112 seconds
+[2023-10-10 12:23:59,696] {processor.py:153} INFO - Started process (PID=2415) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:23:59,697] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:23:59,697] {logging_mixin.py:115} INFO - [2023-10-10 12:23:59,697] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:23:59,719] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:23:59,779] {logging_mixin.py:115} INFO - [2023-10-10 12:23:59,779] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:23:59,813] {logging_mixin.py:115} INFO - [2023-10-10 12:23:59,813] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:23:59,825] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.134 seconds
+[2023-10-10 12:24:30,401] {processor.py:153} INFO - Started process (PID=2469) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:24:30,402] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:24:30,402] {logging_mixin.py:115} INFO - [2023-10-10 12:24:30,402] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:24:30,420] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:24:30,481] {logging_mixin.py:115} INFO - [2023-10-10 12:24:30,481] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:24:30,521] {logging_mixin.py:115} INFO - [2023-10-10 12:24:30,521] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:24:30,539] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.143 seconds
+[2023-10-10 12:25:01,111] {processor.py:153} INFO - Started process (PID=2531) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:25:01,112] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:25:01,112] {logging_mixin.py:115} INFO - [2023-10-10 12:25:01,112] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:25:01,127] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:25:01,171] {logging_mixin.py:115} INFO - [2023-10-10 12:25:01,171] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:25:01,203] {logging_mixin.py:115} INFO - [2023-10-10 12:25:01,202] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:25:01,219] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.113 seconds
+[2023-10-10 12:25:31,509] {processor.py:153} INFO - Started process (PID=2591) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:25:31,515] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:25:31,516] {logging_mixin.py:115} INFO - [2023-10-10 12:25:31,516] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:25:31,544] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:25:31,611] {logging_mixin.py:115} INFO - [2023-10-10 12:25:31,611] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:25:31,659] {logging_mixin.py:115} INFO - [2023-10-10 12:25:31,659] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:25:31,678] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.174 seconds
+[2023-10-10 12:26:02,340] {processor.py:153} INFO - Started process (PID=2646) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:26:02,341] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:26:02,342] {logging_mixin.py:115} INFO - [2023-10-10 12:26:02,342] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:26:02,356] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:26:02,400] {logging_mixin.py:115} INFO - [2023-10-10 12:26:02,400] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:26:02,431] {logging_mixin.py:115} INFO - [2023-10-10 12:26:02,431] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:26:02,444] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.109 seconds
+[2023-10-10 12:26:33,188] {processor.py:153} INFO - Started process (PID=2708) to work on /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:26:33,189] {processor.py:641} INFO - Processing file /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py for tasks to queue
+[2023-10-10 12:26:33,189] {logging_mixin.py:115} INFO - [2023-10-10 12:26:33,189] {dagbag.py:508} INFO - Filling up the DagBag from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:26:33,204] {processor.py:651} INFO - DAG(s) dict_keys(['ETL_toll_data']) retrieved from /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py
+[2023-10-10 12:26:33,247] {logging_mixin.py:115} INFO - [2023-10-10 12:26:33,247] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-10-10 12:26:33,283] {logging_mixin.py:115} INFO - [2023-10-10 12:26:33,283] {dag.py:2972} INFO - Setting next_dagrun for ETL_toll_data to 2023-10-10T00:00:00+00:00, run_after=2023-10-11T00:00:00+00:00
+[2023-10-10 12:26:33,298] {processor.py:161} INFO - Processing /home/project/airflow/dags/finalassignment/staging/ETL_toll_data.py took 0.115 seconds
